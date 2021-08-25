@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/C%C3%B4ng-Ty-C%E1%BB%95-Ph%E1%BA%A7n-%C4%90%E1%BB%8Ba-%E1%BB%90c-Nam-Phong-S%C3%A0i-G%C3%B2n-113392526711003/';
+	var url_popup = 'https://diaocnamphongsaigon.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';

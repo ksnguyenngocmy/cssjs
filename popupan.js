@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://diaocnamphongsaigon.com';
-
-      //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	var i=Math.floor(Math.random() * 3);
+  var urls=["https://diaocnamphongsaigon.com","https://www.youtube.com/channel/UCsSiDgaWn9V2ujzJZ_TmG7g","link3"];
+  
+  var url_popup = urls[i];
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
